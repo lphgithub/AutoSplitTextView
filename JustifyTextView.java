@@ -7,7 +7,7 @@ import android.text.TextPaint;
 import android.util.AttributeSet;
 
 /**
- * Created by dell on 2018/1/31.
+ * Created by dell
  */
 
 public class JustifyTextView extends AppCompatTextView {
